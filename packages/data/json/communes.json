@@ -975,6 +975,11 @@
     "provinceId": "091"
   },
   {
+    "id": "09122",
+    "name": "Licanray",
+    "provinceId": "091"
+  },
+  {
     "id": "09201",
     "name": "Angol",
     "provinceId": "092"
@@ -1582,6 +1587,16 @@
   {
     "id": "14108",
     "name": "Panguipulli",
+    "provinceId": "141"
+  },
+  {
+    "id": "14109",
+    "name": "Coñaripe",
+    "provinceId": "141"
+  },
+  {
+    "id": "14110",
+    "name": "Liquiñe",
     "provinceId": "141"
   },
   {
